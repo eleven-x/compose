@@ -1,0 +1,25 @@
+{
+  "name": "eleven-x/compose",
+  "description": "Compose middleware",
+  "type": "library",
+  "license": "MIT",
+  "keywords": [
+    "compose",
+    "middleware"
+  ],
+  "authors": [
+    {
+      "name": "eleven-x",
+      "email": "elevenonebyone@gmail.com"
+    }
+  ],
+  "minimum-stability": "dev",
+  "require-dev": {
+    "phpunit/phpunit": "^5.7"
+  },
+  "autoload": {
+    "files": [
+      "./index.php"
+    ]
+  }
+}
