@@ -3,6 +3,9 @@
 
  Compose middleware.
 
+## Install 
+
+`composer require eleven-x/compose`
 
 ## API
 
